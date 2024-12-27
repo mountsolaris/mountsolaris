@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Mario. The handle is a loose lat-english translation of my last name.
 - 👀 I’m interested in ... languages and creative thinking.
-- 🌱 I’m currently learning ... software development from scratch @ Codersbay Vienna.
+- 🌱 I’m currently learning ... software development from scratch @ Codersbay Vienna. Strong focus on Java and JS.
 - 💞️ I’m looking to collaborate on ... learning. A lot.
-- 📫 How to reach me ... as you please.
-- ⚡ Fun fact: I might know less than you think and more than you expect. Ah, poetry...
+- 🦡 Fun fact: I borrowed my avatar from a zorilla and it let me. 
 
 <!---
 mountsolaris/mountsolaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
